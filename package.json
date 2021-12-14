@@ -1,0 +1,14 @@
+{
+  "name": "tdd-lab-1",
+  "version": "1.0.0",
+  "description": "TDD-Lab",
+  "main": "translate.js",
+  "scripts": {
+    "test": "jest --watchAll --verbose"
+  },
+  "author": "Alexander Zaks",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.4.5"
+  }
+}
